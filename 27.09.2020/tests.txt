@@ -1,0 +1,872 @@
+Iteration #0
+S
+ 5AC@AK 
+Error - 13
+
+Iteration #1
+S
+ 5AC@AK 
+Error - 13
+
+Iteration #2
+S
+ 5AC@AK 
+Error - 13
+
+Iteration #3
+P
+>:0;L=0O 
+O
+
+Iteration #4
+A
+>=5G=0O 
+8=0<8:8 
+
+Iteration #5
+V
+"><
+Error - 13
+
+Iteration #6
+B
+0B0@5O 
+Error - 13
+
+Iteration #7
+S
+5=B8;OB>@ 
+Error - 13
+
+Iteration #8
+N
+8@BC0;L=K9 
+M
+
+Iteration #9
+N
+8@BC0;L=K9 
+M
+
+Iteration #10
+S
+3@530B>@ 
+Error - 13
+
+Iteration #11
+U
+>@=52>9 
+Error - 13
+
+Iteration #12
+H
+I
+Error - 13
+
+Iteration #13
+U
+!>AB02=>5 
+Error - 13
+
+Iteration #14
+P
+>:0;L=0O 
+>@=520O 
+
+Iteration #15
+H
+M
+Error - 13
+
+Iteration #16
+B
+E
+Error - 13
+
+Iteration #17
+K
+!B0=40@B=0O 
+Error - 13
+
+Iteration #18
+S
+8A?5BG5@ 
+Error - 13
+
+Iteration #19
+S
+Error - 122
+Error - 13
+
+Iteration #20
+S
+>25@5==K9 
+Error - 13
+
+Iteration #21
+H
+H
+Error - 13
+
+Iteration #22
+F
+AB@>5==>5 
+Error - 13
+
+Iteration #23
+N
+8=8-
+W
+
+Iteration #24
+H
+H
+Error - 13
+
+Iteration #25
+S
+07>2K9 
+Error - 13
+
+Iteration #26
+P
+>:0;L=0O 
+B
+
+Iteration #27
+B
+40?B5@ 
+Error - 13
+
+Iteration #28
+V
+"><
+Error - 13
+
+Iteration #29
+K
+;0280BC@0 
+Error - 13
+
+Iteration #30
+H
+@0925@ 
+Error - 13
+
+Iteration #31
+N
+T
+T
+
+Iteration #32
+S
+"5@<0;L=0O 
+Error - 13
+
+Iteration #33
+S
+#=825@A0;L=>5 
+M
+
+Iteration #34
+H
+H
+Error - 13
+
+Iteration #35
+U
+#AB@>9AB2> 
+Error - 13
+
+Iteration #36
+N
+8=8-
+W
+
+Iteration #37
+H
+H
+Error - 13
+
+Iteration #38
+S
+#=825@A0;L=>5 
+B
+
+Iteration #39
+S
+@0925@ 
+Error - 13
+
+Iteration #40
+S
+Error - 122
+Error - 13
+
+Iteration #41
+B
+Error - 122
+Error - 13
+
+Iteration #42
+H
+H
+Error - 13
+
+Iteration #43
+C
+U
+X
+
+Iteration #44
+S
+KA>:>B>G=K9 
+Error - 13
+
+Iteration #45
+M
+C48> 
+Error - 13
+
+Iteration #46
+N
+8=8-
+W
+
+Iteration #47
+S
+5@5G8A;8B5;L 
+Error - 13
+
+Iteration #48
+S
+5@5G8A;8B5;L 
+Error - 13
+
+Iteration #49
+H
+H
+Error - 13
+
+Iteration #50
+S
+>=B@>;;5@ 
+Error - 13
+
+Iteration #51
+H
+H
+Error - 13
+
+Iteration #52
+S
+M
+Error - 13
+
+Iteration #53
+S
+!B0=40@B=K9 
+Error - 13
+
+Iteration #54
+H
+H
+Error - 13
+
+Iteration #55
+N
+!5B52>9 
+M
+
+Iteration #56
+S
+I
+Error - 13
+
+Iteration #57
+V
+#=825@A0;L=0O 
+Error - 13
+
+Iteration #58
+V
+#=825@A0;L=0O 
+Error - 13
+
+Iteration #59
+V
+#=825@A0;L=0O 
+Error - 13
+
+Iteration #60
+S
+!B0=40@B=K9 
+Error - 13
+
+Iteration #61
+S
+Error - 122
+Error - 13
+
+Iteration #62
+S
+>=B@>;;5@ 
+Error - 13
+
+Iteration #63
+S
+#AB0@52H55 
+Error - 13
+
+Iteration #64
+S
+ 5AC@AK 
+Error - 13
+
+Iteration #65
+S
+I
+Error - 13
+
+Iteration #66
+S
+@KH:0 
+Error - 13
+
+Iteration #67
+F
+AB@>5==>5 
+Error - 13
+
+Iteration #68
+H
+#AB@>9AB2> 
+Error - 13
+
+Iteration #69
+P
+I
+I
+
+Iteration #70
+P
+I
+I
+
+Iteration #71
+P
+I
+I
+
+Iteration #72
+P
+I
+I
+
+Iteration #73
+P
+I
+I
+
+Iteration #74
+P
+I
+I
+
+Iteration #75
+P
+I
+I
+
+Iteration #76
+P
+I
+I
+
+Iteration #77
+A
+>=5G=0O 
+8:@>D>= 
+
+Iteration #78
+M
+R
+Error - 13
+
+Iteration #79
+S
+U
+Error - 13
+
+Iteration #80
+D
+8A:>2K9 
+S
+
+Iteration #81
+S
+@0925@ 
+Error - 13
+
+Iteration #82
+S
+#=825@A0;L=>5 
+M
+
+Iteration #83
+M
+H
+Error - 13
+
+Iteration #84
+S
+!8AB5<=K9 
+Error - 13
+
+Iteration #85
+H
+H
+Error - 13
+
+Iteration #86
+S
+#=825@A0;L=>5 
+M
+
+Iteration #87
+C
+><?LNB5@ 
+Error - 13
+
+Iteration #88
+D
+N
+Error - 13
+
+Iteration #89
+N
+8=8-
+W
+
+Iteration #90
+N
+8=8-
+W
+
+Iteration #91
+H
+H
+Error - 13
+
+Iteration #92
+S
+P
+Error - 13
+
+Iteration #93
+B
+#AB@>9AB2> 
+D
+
+Iteration #94
+H
+H
+Error - 13
+
+Iteration #95
+B
+5@5G8A;8B5;L 
+Error - 13
+
+Iteration #96
+U
+x
+ 0AH8@O5<K9 
+
+Iteration #97
+D
+8A:>2K9 
+T
+
+Iteration #98
+H
+H
+Error - 13
+
+Iteration #99
+V
+"><
+Error - 13
+
+Iteration #100
+S
+M
+Error - 13
+
+Iteration #101
+S
+M
+Error - 13
+
+Iteration #102
+Error - 13
+Error - 13
+Error - 13
+
+Iteration #103
+S
+07>2K9 
+Error - 13
+
+Iteration #104
+H
+H
+Error - 13
+
+Iteration #105
+I
+B
+Error - 13
+
+Iteration #106
+S
+I
+Error - 13
+
+Iteration #107
+N
+8=8-
+W
+
+Iteration #108
+H
+H
+Error - 13
+
+Iteration #109
+B
+!;C610 
+Error - 13
+
+Iteration #110
+S
+M
+Error - 13
+
+Iteration #111
+H
+H
+Error - 13
+
+Iteration #112
+S
+Error - 122
+Error - 13
+
+Iteration #113
+P
+>:0;L=0O 
+M
+
+Iteration #114
+H
+Error - 122
+Error - 13
+
+Iteration #115
+V
+"><
+Error - 13
+
+Iteration #116
+S
+$8:A8@>20==0O 
+Error - 13
+
+Iteration #117
+K
+;0280BC@0 
+Error - 13
+
+Iteration #118
+S
+I
+Error - 13
+
+Iteration #119
+H
+H
+Error - 13
+
+Iteration #120
+M
+H
+Error - 13
+
+Iteration #121
+B
+#=825@A0;L=K9 
+Error - 13
+
+Iteration #122
+M
+R
+Error - 13
+
+Iteration #123
+S
+=B5@D59A 
+Error - 13
+
+Iteration #124
+S
+>4:;NG05<K9 
+Error - 13
+
+Iteration #125
+S
+M
+Error - 13
+
+Iteration #126
+S
+Error - 122
+Error - 13
+
+Iteration #127
+S
+ 5AC@AK 
+Error - 13
+
+Iteration #128
+B
+I
+Error - 13
+
+Iteration #129
+N
+I
+I
+
+Iteration #130
+S
+#=825@A0;L=>5 
+@>3@0<<=K9 
+
+Iteration #131
+B
+#=825@A0;L=K9 
+Error - 13
+
+Iteration #132
+S
+ 5AC@AK 
+Error - 13
+
+Iteration #133
+S
+I
+Error - 13
+
+Iteration #134
+P
+>:0;L=0O 
+O
+
+Iteration #135
+S
+!B0=40@B=K9 
+Error - 13
+
+Iteration #136
+S
+5@5G8A;8B5;L 
+Error - 13
+
+Iteration #137
+H
+#AB@>9AB2> 
+Error - 13
+
+Iteration #138
+S
+Error - 122
+Error - 13
+
+Iteration #139
+H
+Error - 122
+Error - 13
+
+Iteration #140
+V
+"><
+Error - 13
+
+Iteration #141
+H
+H
+Error - 13
+
+Iteration #142
+B
+M
+Error - 13
+
+Iteration #143
+P
+>:0;L=0O 
+F
+
+Iteration #144
+H
+H
+Error - 13
+
+Iteration #145
+S
+Error - 122
+Error - 13
+
+Iteration #146
+H
+H
+Error - 13
+
+Iteration #147
+H
+H
+Error - 13
+
+Iteration #148
+S
+#=825@A0;L=>5 
+5A?@>2>4=0O 
+
+Iteration #149
+S
+C
+Error - 13
+
+Iteration #150
+M
+#=825@A0;L=K9 
+Error - 13
+
+Iteration #151
+D
+I
+Error - 13
+
+Iteration #152
+S
+@0925@ 
+Error - 13
+
+Iteration #153
+S
+ 5AC@AK 
+Error - 13
+
+Iteration #154
+S
+=B5@D59A 
+Error - 13
+
+Iteration #155
+H
+#AB@>9AB2> 
+Error - 13
+
+Iteration #156
+S
+@>3@0<<8@C5<K9 
+Error - 13
+
+Iteration #157
+S
+=B5@D59A 
+Error - 13
+
+Iteration #158
+B
+B
+B
+
+Iteration #159
+S
+=>?:0 
+Error - 13
+
+Iteration #160
+N
+#AB@>9AB20 
+B
+
+Iteration #161
+S
+5@5G8A;8B5;L 
+Error - 13
+
+Iteration #162
+S
+I
+Error - 13
+
+Iteration #163
+V
+"><
+Error - 13
+
+Iteration #164
+D
+8A:>2K9 
+S
+
+Iteration #165
+S
+(8=0 
+Error - 13
+
+Iteration #166
+N
+8=8-
+W
+
+Iteration #167
+U
+0?><8=0NI55 
+Error - 13
+
+Iteration #168
+S
+ 5AC@AK 
+Error - 13
+
+Iteration #169
+W
+E
+T
+
+Iteration #170
+M
+KHL 
+Error - 13
+
+Iteration #171
+P
+>:0;L=0O 
+M
+
+Iteration #172
+V
+"><
+Error - 13
+
+Iteration #173
+N
+8=8-
+W
+
+SetupDiEnumDeviceInfo error
+
