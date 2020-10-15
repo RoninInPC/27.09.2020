@@ -29,12 +29,13 @@ std::wstring IntToWStr(int i) {
 #include "mmsystem.h"
 #define TIMER_1 12000
 #define SIZE 100
-int size = 0;
+int size = 1;
 MONITORINFOEX A[SIZE];
 BOOL MonitorEnumProc(HMONITOR monitor, HDC hdc, LPRECT rect, LPARAM data) {
     MONITORINFOEX info;
     info.cbSize = sizeof(MONITORINFOEX);
     GetMonitorInfo(monitor, &info);
+    A[0] = info;
     A[size] = info;
     size++;
     return TRUE;
@@ -86,8 +87,8 @@ HWND CreateMainWindow() {
         WS_OVERLAPPEDWINDOW,      // стиль окна
         10,                       // X-координата левого верхнего угла
         10,                       // Y-координата левого верхнего угла
-        300,                      // ширина окна
-        300,                      // высота окна
+        500,                      // ширина окна
+        500,                      // высота окна
         NULL,                     // описатель родительского окна
        NULL,// описатель главного меню (для главного окна)
         hIns,
@@ -107,6 +108,7 @@ LRESULT CALLBACK WndProcMain(HWND hwnd, UINT iMsg, WPARAM wParam, LPARAM lParam)
     RECT rect;              // структура задающая прямоугольник
     PAINTSTRUCT ps;
     DWORD i;
+    HFONT hFont;
     int d;
     HDC common_dc;
     switch (iMsg) {
@@ -121,19 +123,19 @@ LRESULT CALLBACK WndProcMain(HWND hwnd, UINT iMsg, WPARAM wParam, LPARAM lParam)
     case WM_PAINT:
         hdc = BeginPaint(hwnd, &ps);
         common_dc = CreateDC(TEXT("DISPLAY"), NULL, NULL, NULL);
+        hFont = ::CreateFont(50, 0, 0, 0, 0, 0, 0, 0, DEFAULT_CHARSET, 0, 0, 0, 0, L"Arial");
+        SelectObject(hdc, hFont);
         EnumDisplayMonitors(common_dc, NULL, (MONITORENUMPROC)MonitorEnumProc, NULL);
         for (int i = 0; i < size; i++) {
             std::wstring Arr = IntToWStr(A[i].rcMonitor.right) + s2ws("x") + IntToWStr(A[i].rcMonitor.bottom) + s2ws("\0");
-            HFONT hFont = ::CreateFont(50, 0, 0, 0, 0, 0, 0, 0, DEFAULT_CHARSET, 0, 0, 0, 0, L"Arial");
-            SelectObject(hdc, hFont);
-            TextOut(hdc, 50 * i, 0, Arr.c_str(), Arr.size());
-            DeleteObject(hFont);
+            TextOut(hdc, 0, 50*i, Arr.c_str(), Arr.size());         
         }
+        DeleteObject(hFont);
         EndPaint(hwnd, &ps);
         return 0;
     case WM_TIMER:
         size = 0;
-        InvalidateRect(hwnd, &glRectField1, TRUE);
+        InvalidateRect(hwnd, &glRectField1, FALSE);
         return 0;
     case WM_CLOSE:
         break;
