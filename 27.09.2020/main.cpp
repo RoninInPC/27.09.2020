@@ -29,13 +29,12 @@ std::wstring IntToWStr(int i) {
 #include "mmsystem.h"
 #define TIMER_1 12000
 #define SIZE 100
-int size = 1;
+int size = 0;
 MONITORINFOEX A[SIZE];
 BOOL MonitorEnumProc(HMONITOR monitor, HDC hdc, LPRECT rect, LPARAM data) {
     MONITORINFOEX info;
     info.cbSize = sizeof(MONITORINFOEX);
     GetMonitorInfo(monitor, &info);
-    A[0] = info;
     A[size] = info;
     size++;
     return TRUE;
